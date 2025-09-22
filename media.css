@@ -1,0 +1,52 @@
+@media screen and (min-width:320px) and (max-width:570px){
+   header{
+    flex-direction: column;
+    flex-wrap: wrap;
+   }
+.head ul{
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.head ul li{
+    margin: 10px;
+}
+.main
+{
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.Short
+{
+    margin: unset;
+}
+.vedios
+{
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.photo
+{
+    text-align: center;
+}
+.images
+{
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.chamber
+{
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.footer-container
+{
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.picture_parent
+{
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+}
